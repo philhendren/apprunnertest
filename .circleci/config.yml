@@ -7,6 +7,5 @@ jobs:
       - run:
            name: Install Requirements 
            command: |
-             apk add python
-             apk add pip
+             apk add python3
              pip install flask
