@@ -9,4 +9,4 @@ jobs:
            command: |
              apk add python3
              apk add py3-pip
-             pip install flask
+             pip3 install flask
